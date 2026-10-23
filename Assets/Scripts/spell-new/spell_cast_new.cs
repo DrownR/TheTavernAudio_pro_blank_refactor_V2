@@ -4,6 +4,7 @@ using FMODUnity;   // Wymagane dla RuntimeManager
 using System.Collections;
 // Usunięto: using Unity.VisualScripting;
 
+//Remake for tornado: shoot orb -> orb idle -> tornado start -> tornado end
 public class spell_cast_new : MonoBehaviour
 {
     // --- KONFIGURACJA ZAKLĘCIA (WIZUALNA I FIZYCZNA) ---

@@ -32,12 +32,12 @@ Material:
     m_Floats:
     - _AdditionalLightAttenThreshold: 0
     - _AdditionalLightLocalityPower: 1
-    - _AdditionalLightsFogIntensity: 0.89
+    - _AdditionalLightsFogIntensity: 0.56
     - _DensityMultiplier: 0.44
     - _DensityThreshold: 0.082
     - _FogHeight: 90
     - _FogHeightFalloff: 477
-    - _FogMoveSpeed: 0.04
+    - _FogMoveSpeed: 0.2
     - _FogOpacity: 0.07
     - _FogSecondaryScale: 0.1
     - _FogSecondarySpeed: 0.05
@@ -63,7 +63,7 @@ Material:
     - _LightContribution: 1.89
     - _LightFogAreaSoftness: 7.18
     - _LightScattering: 0.07
-    - _MainLightFogIntensity: 6.56
+    - _MainLightFogIntensity: 1
     - _MaxAdditionalLights: 16
     - _MaxDistance: 150
     - _MaxSteps: 12.2
@@ -75,7 +75,7 @@ Material:
     - _SunFogDirectionThreshold: 0.802
     - _UseAdditionalLights: 1
     - _UseLightFogAreaMask: 0
-    - _UseSunDirectionFogMask: 1
+    - _UseSunDirectionFogMask: 0
     m_Colors:
     - _Color: {r: 0.79218584, g: 0.79989696, b: 0.8113208, a: 1}
     - _FogMoveDirection: {r: 0.1, g: 0.02, b: 0.03, a: 0}
